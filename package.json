@@ -194,7 +194,7 @@
     "tslib": "^2.1.0",
     "xml2js": "^0.4.23",
     "yargs": "^17.0.1",
-    "zen-observable-ts": "^1.0.0"
+    "zen-observable-ts": "^1.2.4"
   },
   "lint-staged": {
     "*.ts": [
